@@ -1,0 +1,12 @@
+b 100 1 1 mag sha
+b 100 1 1 ass
+b 100 1 1 val m_s
+w 100 1 1 hea
+w 100 1 1 val m_s
+w 100 1 1 ang
+w 100 0 1 dan
+w 1 1 0 sol
+w 2 0 1 s_f
+g 100 1 0 sol
+g 20 0 1 mag dan
+g 0 1 0 w_w

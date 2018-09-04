@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513229649 source:f:\z3\tr\stl\string.cpp
+	"String.hpp"
+	<algorithm>
+	<iostream>
+
+1517749569 f:\z3\tr\stl\string.hpp
+	<memory>
+
+1508664295 source:f:\z3\tr\stl\string_test.cpp
+	"String.hpp"
+	<vector>
+	<iostream>
+
+1517487399 source:f:\z3\tr\stl\vector.cpp
+
+1517794928 source:f:\z3\tr\stl\vector_t.cpp
+	"Vector.hpp"
+	<vector>
+	<iostream>
+
+1517794889 f:\z3\tr\stl\vector.hpp
+

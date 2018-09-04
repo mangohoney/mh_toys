@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1513840995 source:f:\z3\tr\sennon_war\my_calculator\my_calculator.cpp
+	"my_calculator.hpp"
+	<iostream>
+	<algorithm>
+
+1513857626 f:\z3\tr\sennon_war\my_calculator\my_calculator.hpp
+	<istream>
+	<array>
+	<utility>
+
+1513827034 source:f:\z3\tr\sennon_war\my_calculator\test.cpp
+	"my_calculator.hpp"
+	<iostream>
+

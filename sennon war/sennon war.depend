@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1502286997 source:f:\z3\tr\sennon war\text1.cpp
+	"Data.h"
+	"Pre.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+
+1501999842 f:\z3\tr\sennon war\data.h
+	<iostream>
+
+1509785381 f:\z3\tr\sennon war\orb.h
+	<iostream>
+	<map>
+	<array>
+
+1503117954 f:\z3\tr\sennon war\pre.h
+	<stdlib.h>
+	<iostream>
+	<map>
+	<unordered_set>
+	"Orb.h"
+

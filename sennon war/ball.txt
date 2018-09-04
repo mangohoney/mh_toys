@@ -1,0 +1,9 @@
+soldier        armor        valkyrie       assassin
+bandit         samurai      ninja          pegasus_rider
+dark_fighter   monk         avant_conselor magic_swordsman
+angel          manipulator  sailor         shinto_fighter
+mage_armor     dragon_rider bow_rider      archer
+mage           healer       witch          pirate
+vampire_hunter priest       bishop         rear_conselor
+wind_water     artillery    dancer         alchemist
+ranger         thief        shaman

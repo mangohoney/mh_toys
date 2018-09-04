@@ -1,0 +1,9 @@
+b 100 1 0 dan
+w 57 1 1 hea
+w 100 1 0 m_s val
+w 100 1 0 sam nin
+w 25 0 0 w_w
+w 0 0 1 pir art
+g 55 1 0 sol
+g 0 1 1 b_r
+g 0 0 1 dan mag
